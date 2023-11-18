@@ -10,7 +10,7 @@ type alias Model =
 
 init : Model
 init =
-    { header = "Hello, world!" }
+    { header = "Personal website" }
 
 
 view : Model -> H.Html msg
