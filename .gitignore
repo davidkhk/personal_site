@@ -1,4 +1,14 @@
-# elm-package generated files
-elm-stuff
 # elm-repl generated files
 repl-temp-*
+
+# npm
+node_modules
+
+# elm
+elm-stuff
+
+# system
+.DS_Store
+
+# build
+dist
